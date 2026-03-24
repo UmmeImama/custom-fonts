@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'The Styled Edit';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./thestylededit.woff2') format('woff2'),
+       url('./thestylededit.woff') format('woff');
+  font-display: swap;
+}
